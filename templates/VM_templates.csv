@@ -1,0 +1,5 @@
+Nom,ESX,Datastore,Template,LAN,IP,Passerelle,DNS1,DNS2
+CloudMe-TemplateTST01,esxi-201.cloudme.local,datastore102.cloudme.local,Template ADM,dpg_AdminTools,172.17.111.213,172.17.111.1,172.17.110.12,172.17.110.14
+CloudMe-TemplateTST-02,esxi-201.cloudme.local,datastore102.cloudme.local,Template FW,VM Network,172.17.111.214,172.17.111.1,172.17.110.12,172.17.110.14
+#CloudMe-TemplateTST03,esxi-201.cloudme.local,datastore102.cloudme.local,Template MSG,dpg_Services,172.17.111.215,172.17.111.1,172.17.110.12,172.17.110.14
+CloudMe-TemplateTST04,esxi-201.cloudme.local,datastore102.cloudme.local,Template NAS,dpg_ISCSI_Storage,172.17.111.216,172.17.111.1,172.17.110.12,172.17.110.14

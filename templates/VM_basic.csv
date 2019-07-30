@@ -1,0 +1,4 @@
+Nom,Datastore,VHost,Memoire_Go,Nb_CPU,Hdd_C_Go,Hdd_D_Go,LAN,IP,Netmask,Passerelle,DNS1,DNS2
+CloudMe-BasicTST11,STK-NAS-01,esxi-101.cloudme.local,1,2,20,10,dpg_Services,172.17.110.213,24,172.17.110.1,172.17.110.12,172.17.110.14
+#CloudMe-BasicTST02,datastore102,esxi-102.cloudme.local,1,2,21,,dpg_AdminTools,172.17.111.214,24,172.17.111.1,172.17.110.12,172.17.110.14
+#CloudMe-BasicTST03,datastore103,esxi-103.cloudme.local,2,2,18,,dpg_Services,172.17.111.215,24,172.17.111.1,172.17.110.12,172.17.110.14
